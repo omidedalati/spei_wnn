@@ -23,8 +23,8 @@ spei_wnn/
 ├── describe.R          # Descriptive statistics and normality checks
 ├── main.R              # Main execution pipeline
 ├── run.R               # Quickstart execution script
-├── predict1.R          # Forecasting routine (version 1)
-├── predict2.R          # Forecasting routine (version 2)
+├── predict1.R          # Visualization scripts
+├── predict2.R          # Visualization scripts
 ├── plot1.R             # Visualization scripts
 ├── res_plot.R          # Evaluation result plots
 ├── export_data.R       # Export routines for processed data/results
